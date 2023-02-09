@@ -1,4 +1,6 @@
 module.exports = {
   "spearlyAuthKey": "clear",
-  "projectName": "spear-sample"
+  "projectName": "spear-sample",
+  "sitemap": true,
+  "siteURL": "",
 };
